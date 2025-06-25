@@ -286,4 +286,4 @@ cd ~/Docs; ls -l         # Chained commands
 
 ---
 
-> ✅ This guide covers essential Linux basics for navigating, managing, and interacting with the system via the command line. Perfect for beginners and intermediate users!
+> *This guide covers essential Linux basics for navigating, managing, and interacting with the system via the command line. Perfect for beginners and intermediate* users!
